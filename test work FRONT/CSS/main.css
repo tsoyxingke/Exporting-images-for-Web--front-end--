@@ -1,0 +1,156 @@
+.conteiner
+{
+    display:flex;
+    max-width: 1200px;
+    flex-direction: column;
+    margin:0 auto;
+    margin-top:25px;
+}
+.nav {
+    display:flex;
+    justify-content: space-between;
+    flex-direction:row;
+}
+.logo{
+    
+}
+.links {
+text-align: center;
+width: 327px;
+height: 32px;
+
+font-family: 'DMSans';
+font-size: 15px;
+line-height: 18px;
+display:flex;
+justify-content: space-between;
+
+}
+.navGetStarted
+{
+    display:flex;
+    width: 211px;
+    height: 60px;
+    background: #FF7143;
+border-radius: 10px;
+font-family: 'DMSans';
+font-size: 17px;
+line-height: 20px;
+justify-content: center;
+align-items:center;
+color:#FFFFFF;
+}
+.section1 {
+    display:flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    max-height: 644px;
+    flex-wrap:wrap;
+}
+.section1text{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+    max-width: 459px;
+    max-height: 461px;
+    padding-top:92px;
+    
+}
+.section1text1 {
+    
+    font-family: 'DMSans';
+    font-size: 80px;
+    line-height: 77px;
+}
+.section1text2 {
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+}
+.section1buttonarrow{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 311px;
+    
+}
+.section1text3 {
+    display:flex;
+    font-family: 'DMSans';
+font-size: 17px;
+line-height: 20px;
+justify-content: center;
+align-items: center;
+width: 211px;
+height:60px;
+color: #FFFFFF;
+background: #5454D4;
+border-radius: 10px;
+}
+.section1Arrow{
+    width: 60px;
+    height: 60px;
+}
+
+.Hero1{
+    max-width: 610px;
+    max-height: 644px;
+}
+.section1low{
+    display:flex;
+    justify-content: space-between;
+    width:1200px;
+}
+.section2{
+    display:flex;
+    max-height:1030px;
+    max-width:1200px;
+    margin-top: 200px;
+    justify-content: space-between;
+}
+.section2_1{
+    display:flex;
+    width: 1200px;
+    height: 473px;
+    justify-content: space-between;
+}
+.section2_1Hero{
+    display:flex;
+    height:473px;
+    width:348.5px;
+}
+.section2_1Text{
+    display: flex;
+    flex-direction: column;
+    width:556px;
+    height:229px;
+    justify-content: space-between;
+    align-self: center;
+
+}
+.section2_1text1{
+    font-family: 'DMSans';
+    font-size: 50px;
+    line-height: 57px;
+    
+    color: #19191B;
+}
+.section2_1text2{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #696871;
+}
+.section2_1text3{
+    font-family: 'DMSans';
+    font-size: 17px;
+    line-height: 20px;
+    
+    color: #5454D4;
+}
